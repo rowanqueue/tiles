@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"s_dude","order":2,"path":"sprites/s_dude/s_dude.yy",},
+    {"name":"s_rock","order":1,"path":"sprites/s_rock/s_rock.yy",},
+    {"name":"o_gm","order":2,"path":"objects/o_gm/o_gm.yy",},
+    {"name":"o_rock","order":3,"path":"objects/o_rock/o_rock.yy",},
+    {"name":"o_player","order":1,"path":"objects/o_player/o_player.yy",},
+    {"name":"o_unit","order":5,"path":"objects/o_unit/o_unit.yy",},
+    {"name":"o_some_dude","order":4,"path":"objects/o_some_dude/o_some_dude.yy",},
+  ],
+}
